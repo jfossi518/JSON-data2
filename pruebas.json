@@ -1,0 +1,145 @@
+{
+  "id": "series-1",
+  "title": "Don't Scream",
+  "characters": [
+    "Estefany",
+    "Wilson",
+    "Derek",
+    "Sugar"
+  ],
+  "synopsis": "Three friends find a mysterious cassette tape that unleashes a deadly game with a terrifying puppet. They must survive until morning without screaming, but the haunted puppet has other plans.",
+  "seasons": [
+    {
+      "id": "season-1",
+      "seasonNumber": 1,
+      "plot": "Three friends, Estefany, Wilson, and Derek, bored after a game of Clue, decide to watch an old cassette tape found by Derek. The tape, labeled 'DON’T SCREAM', contains a bizarre children's puppet show that invites them to play a game. After calling a number on the screen, a mysterious box appears at their door containing the puppet, Sugar. A countdown begins, and they are forced to hide from the malevolent puppet until 6 a.m. The rule is simple: don't scream. But as Sugar hunts them one by one, staying silent becomes impossible.",
+      "episodeCount": 1,
+      "characters": [
+        "Estefany",
+        "Wilson",
+        "Derek"
+      ],
+      "episodes": [
+        {
+          "id": "s1-ep1",
+          "episodeNumber": 1,
+          "title": "Don’t Scream",
+          "duration": 15,
+          "plotPoints": "Three friends play a cursed VHS tape and are forced into a deadly game of hide-and-seek with a demonic puppet named Sugar. They must survive until 6 a.m. without screaming. One by one, they are found and killed after screaming in terror. The last survivor, Derek, makes it to morning, only to be killed just as the game ends.",
+          "plotSummary": "",
+          "status": "In Progress",
+          "scenes": [
+            {
+              "id": "s1-ep1-sc1",
+              "context": "INT. SALA PRINCIPAL - NOCHE\n\nTres jóvenes están sentados en el suelo formando un círculo.\n\nEn el centro, el juego de mesa CLUE.\n\nSus rostros son serios.\n\nESTEFANY (19) observa el tablero. De pronto levanta la mirada, animada.\n\nESTEFANY \n¿Y si el asesino es un fantasma?\n\nWILSON (20) la mira con una ligera mueca.\n\nWILSON\nClaro que no, Tefa. El asesino es un humano.\n\nESTEFANY\nSi lo fuera, ya habríamos acabado con este juego.\nEl asesino es un fantasma. Fin.\n\nDEREK (18) lanza los dados.\n\nEstefany y Wilson bajan la mirada mientras Derek mueve su ficha con cuidado.\n\nDEREK\nAcuso al Profesor Ciruela con cuchillo en la sala.\n\nDerek toma el sobre del juego. Alterna la mirada entre sus amigos y las cartas para que no las vean.\n\nTras unos segundos, sonríe y revela las cartas, su acusación es correcta.\n\nDEREK (CONT'D)\nListo. Fin del juego.\n\nWilson y Estefany dejan sus cartas sobre el tablero.\n\nDerek guarda todo dentro de la caja.\n\nESTEFANY\nEl juego hubiera sido más interesante si\nel asesino hubiera sido un fantasma.\n\nWILSON\n¿No te estabas quejando de este eterno juego?\nESTEFANY\nEs que jugar con humanos es aburrido...\n\nWilson mueve la cabeza de un lado a otro, suspira, y se levanta rumbo a la cocina.\n\nDerek coloca la tapa de la caja, la guarda en un estante.\n\nDEREK\nBien. ¿Ya podemos ver una película?\n\nEstefany lo mira, se levanta de golpe y se acerca a él.\n\nESTEFANY\nDerek, dijiste que habías encontrado una caja llena de cassettes cuando limpiabas.\n\nLo toma por los hombros y lo sacude.\n\nESTEFANY (CONT'D)\nDeberíamos verlos. Deben ser tan antiguos que quizá alguno tenga un espíritu atrapado. \n\nDerek se zafa del agarre, frunce el ceño y sacude su ropa como si tuviera polvo.\n\nDEREK\nLos cassettes son de mi padre. Solía coleccionarlos. Dudo mucho que sean tétricos. \nLes eché un vistazo y solo es música y películas antiguas.\n\nWilson regresa de la cocina con una lata de cerveza en la mano. Sonríe.\n\nWILSON\n¿Alguien dijo cassettes? Amo esas cosas. \n\nDa un sorbo de cerveza.\n\nESTEFANY\nLos cassettes que encontró Derek, ¿recuerdas?\n\nWILSON\nClaro que lo recuerdo. Hay que traerlos. \n\nWilson mira a Derek y bebe otro sorbo de cerveza, manteniendo la sonrisa.\n\nWILSON (CONT'D)\nQuerías ver una película, ¿no, Derek?\n\nESTEFANY\n¡Sí! ¡Veamos películas análogas!\n\nWILSON\nEstán en el cuarto de cajas, ¿cierto? Ya los traigo.\n\nDerek abre la boca para responder, pero se detiene.\n\nWilson deja la cerveza en el sofá y camina rápido hacia el cuarto de cajas.",
+              "location": "Sala Principal - Noche",
+              "actors": [
+                "Estefany",
+                "Wilson",
+                "Derek"
+              ],
+              "status": "Completed",
+              "mood": "Intrigue, Casual",
+              "atmosphere": "Cozy, dimly lit"
+            },
+            {
+              "id": "s1-ep1-sc2",
+              "context": "INT. CUARTO DE CAJAS - NOCHE\n\nWilson abre y cierra varias cajas. Mira a su alrededor. Mueve cajas de su lugar. En una esquina, descubre otra caja, se acerca rápido, se agacha y la abre, dentro: un montón de cassettes.\n\nWilson sonríe, de pronto, una brisa le roza la nuca, su sonrisa desaparece, se voltea rápidamente.\n\nNo hay nada.\n\nWilson arquea una ceja, confundido, se levanta de golpe, toma la caja y se apresura a salir.\n\nLa puerta queda abierta. De pronto... se cierra sola.",
+              "location": "Cuarto de Cajas - Noche",
+              "actors": [
+                "Wilson"
+              ],
+              "status": "Completed",
+              "mood": "Curiosity, slight unease",
+              "atmosphere": "Cluttered, dusty"
+            },
+            {
+              "id": "s1-ep1-sc3",
+              "context": "INT. SALA PRINCIPAL – NOCHE\n\nWilson regresa con una caja en brazos.\n\nSe sienta en el suelo.\n\nWILSON\nMiren, aquí está.\n\nWilson gira la caja para sacar los cassettes.\n\nDEREK\n¡Wilson, no...! \n\nDerek estira el brazo para detenerlo, pero no alcanza.\n\nLos cassettes caen y quedan esparcidos por el piso.\n\nEstefany se sienta rápidamente junto a Wilson.\n\nAnimada, comienza a revisar cada cassette.\nDerek se lleva una mano a la frente. Suspira.\n\nSe acerca y se sienta con ellos.\n\nWILSON\nQué cassettes tan hermosos.\n¿Me los regalas?\n\nDEREK\nDile a mi padre.\nSi dice que sí, todos tuyos. \n\nWILSON\nMe dirá que sí. Somos muy buenos amigos.\nLe dará gusto que estas bellezas estén en manos de otro amante de lo antiguo.\n\nDerek y Estefany revisan los cassettes con intriga.\n\nWilson encuentra uno distinto: sin portada, con la frase\n\n“DON’T SCREAM” escrita en la etiqueta. \n\nWilson queda hipnotizado.\n\nEstefany nota su trance, se inclina y ve el cassette.\n\nSus ojos se agrandan.\n\nESTEFANY\n¡Bingo!\n\nLe arrebata el cassette y corre hacia el televisor.\n\nConecta un viejo reproductor que esta debajo del televisor.\n\nDEREK\nEse reproductor es solo decoración. Ni lo intentes.\n\nEstefany lo ignora.\n\nEl reproductor se enciende. Los tres quedan boquiabiertos.\n\nWILSON\nPara que veas, Derek.\nNo todo lo antiguo es inservible.\n\nDerek frunce el ceño, confundido.\n\nEstefany enciende el televisor y coloca el cassette.\n\nEn pantalla: solo interferencia con sonidos que parecen gritos de por medio.\nDEREK\n¿Ves, Tefa? No hay nada raro. \n\nSe acerca para quitar el cassette,\n\npero aparecen unos TÍTERES tétricos con un cartel:\n\nCARTEL\n“GO TO SCREAM” \n\nWilson y Estefany quedan hipnotizados.\n\nLos títeres hablan incoherencias entre interferencia.\n\nMovimientos robóticos. Miran directo a cámara. \n\nEstefany sonríe.\n\nESTEFANY\nEste programa lo veíamos de niños.\nNo recordaba el nombre...\nHace unos días soñé con esto.\n¡Se los conté, ¿recuerdan?!\n\nWILSON\nYo también soñé con esto. Pensaba que Tefa me había pegado su locura, pero también lo recuerdo.\n\nESTEFANY\n¡Oye! ¡No estoy loca!\n\nDerek observa la pantalla, confundido.\n\nWILSON\nDerek, ¿recuerdas ese programa de títeres que siempre veíamos de niños? El que bromeaba con “no grites o te sacaré la lengua”.\n\nDEREK\nNo. Y me alegra no hacerlo.\nQué broma tan tétrica. \n\nESTEFANY\n¡Pero si era muy gracioso!\n\nDEREK\nA ti todo te da risa, Tefa.\n\nLa imagen se aclara.\n\nUn TÍTERE escalofriante llena la pantalla.\n\n\nTÍTERE\n¡Hola niños! ¿Quieren jugar con su buen amigo Sugar?\n\nLos tres quedan perplejos.\n\nEstefany reacciona primero.\n\nESTEFANY\n¡Sí, queremos jugar!\n\nDEREK\n¡No! ¿Qué haces?\n\nEn la pantalla aparece un número.\n\nSUGAR\nSi conmigo quieres jugar,\na este número debes marcar.\n\nDerek mantiene su ceño de confusión.\n\nWilson inclina su cabeza con intriga.\n\nEstefany saca su celular.\n\nESTEFANY\nVamos a marcarle.\n\nDerek se lo arrebata.\n\nDEREK\n¡Loca! Estamos yendo contra nuestro instinto de supervivencia. \n\nWILSON\nUmh, dudo que pase algo. Es un programa de hace años. El número debe estar fuera de servicio. Deja a Tefa ser feliz.\n\nESTEFANY\nSí, Derek.\nNo va a pasar nada...\n\nDerek mira las expresiones de ambos:\n\nla tranquilidad de Wilson, la emoción de Estefany.\n\nSuspira. Le devuelve el celular a Estefany.\n\nEstefany marca el número, dígito por dígito.\n\nEl teléfono suena.\n\nElla sonríe emocionada.\nESTEFANY\n¡Escuchen, está marcando!\n\nDEREK\nQuizá ese número está ocupado por alguien...\n\nESTEFANY\nPues claro, es el número del programa.\n\nDEREK\nNo me refería a eso.\n\nLa llamada conecta.\n\nSolo se escucha distorsión... y respiraciones.\n\nLos tres se miran, confundidos.\n\nDe repente, tocan la puerta.\n\nEstefany y Wilson saltan asustados.\n\nDerek voltea hacia la entrada.\n\nDEREK (CONT’D)\nQué raro...\nMis padres dijeron que volverían hasta mañana.\n\nDerek se levanta del suelo rumbo a la entrada.",
+              "location": "Sala Principal - Noche",
+              "actors": [
+                "Estefany",
+                "Wilson",
+                "Derek"
+              ],
+              "status": "In Progress",
+              "mood": "Nostalgic, creepy, suspenseful",
+              "atmosphere": "Tense, focused on the TV"
+            },
+            {
+              "id": "s1-ep1-sc4",
+              "context": "INT. ENTRADA - NOCHE\n\nDerek abre la puerta.\n\nNada.\n\nBaja la mirada. Hay una caja. Levanta la mirada y mueve su cabeza de un lado a otro con la ceja levantada.\n\nSuspira. Se agacha y toma la caja. Vuelve a hacer un recorrido con su mirada.\n\nEntra con la caja y cierra la puerta.",
+              "location": "Entrada - Noche",
+              "actors": [
+                "Derek"
+              ],
+              "status": "Pending",
+              "mood": "Confused, suspicious",
+              "atmosphere": "Quiet, mysterious"
+            },
+            {
+              "id": "s1-ep1-sc5",
+              "context": "INT. SALA PRINCIPAL - NOCHE\n\nDerek regresa con la caja en manos.\n\nLa deja en el suelo.\n\n\nDerek se sienta en el sofa, agarra la cerveza de Wilson y se la da.\n\nWilson recibe la cerveza.\n\nWILSON\n¿Que es eso?\n\nDEREK\nSupongo que debe ser algun pedido de mi papá. No me aviso sobre que llegaria, seguro se le olvido.\n\nWILSON\n¿Un pedido a la 1:00 a.m.?\n\nDerek frunce el ceño, dirige su mirada a la caja.\n\nSUGAR\n¡Exelente! ¡El juego empezara muy pronto!\n\nWilson y Estefany abren los ojos de par en par, dirigen la mirada al televisor. Estan tensos.\n\nEl titere Sugar no hace nada, se queda estatico con la mirada fija a la pantalla del televisor.\n\nDerek trata de formar una sonrisa.\n\nDEREK\nEl programa esta grabado... Es obvio, no sean tontos...\n\nEl televisor muestra interferencia y Sugar se mueve de forma robotica. Queda en la misma posición estatica.\n\nDe repente el televisor dispara un pitido con la palabra \"abre la caja\" de por medio.\n\nEl pitido se mezcla con gritos.\n\nLos tres jovenes se tapan los oidos.\n\nEsteany agitada abre la caja.\n\nEl pitido se detiene.\n\nEn la caja esta el mismo titere del televisor.\n\nLos tres quedan quietos, en completo shock.\n\nLas luces se apagan. \n\nEstefany grita.\n\nLas luces se vuelven a encender.\n\nSugar ya no esta en la caja, tampoco esta en el televisor.\n\nWilson deja caer la lata de cerveza por el shock.\n\nWILSON\n(Con una leve risa)\nWow... Derek, que broma tan elaborada. No eres tan aburrido despues de todo. \n\nDEREK\n¿¡Te parece que yo haria algo como esto!? Oh por dios, que esta pasando...\n\nWILSON\nEh... Esta bien, Tefa, nos asustaste, no nos volveremos a burlar de ti por creer en los fantasmas ¿Cierto Derek?\n\nESTEFANY\nYo no hice nada de esto, se los juro.\n\nEn la pantalla del televisor aparece una cuenta regresiva, son las horas exactas que faltan para ser las seis de la mañana. Debajo, la palabra: \"Rapido, escondete\".\n\nSuena un constante tik tak cuando los segundos pasa.\n\nLos tres jovenes se miran entre ellos con ojos grandes.\n\nWILSON\nBien... Debemos escondernos ¿Recuerdan? De eso trata el programa, esconderse.\n\nESTEFANY\nSi, si, lo recuerdo. Era un tipo de reality show donde los niños que paerticipaban se tenian que esonder y si los econtraban, el buscador con una mascara parecida al aspecto de sugar hayaba la forma de hacerlos reir o gritar, si hacian algun ruido tenian una penitencia.\n\nDEREK\n¿Y cual sera nuestra penitencia si nos encuentra? \n\nLos tres quedan en silencio.\n\nLos tres sienten una brisa, dirigen la mirada a un pasillo de la casa que esta oscuro y ven como Sugar se mueve de un lado a otro. \n\nLa luz empieza a fallar hasta que finalmente toda la casa queda a oscura.\n\nLo unico con luz es el televisor con la cuenta regresiva y el celular de Estefany.\n\nWilson y Derek sacan su propio celular para iluminar la sala.\n\nESTEFANY\n(Susurrando)\nBien... Tenemos que escondernos. Si recuerdo bien. Las reglas del juego no permite que nos escondamos juntos.\n\nDEREK\n(Susurrando)\nSi Esto es una puta broma, juro que te matare, Estefany. \n\nWILSON\n(Susurrando)\nWow ¿Tan asustado estas como para maldecir? \n\nDEREK\nNo estoy asustado, todo esto es obra de Estefany por no seguirle el juego a ella y a los estupidos espiritus. Nada de esto es real.\n\nESTEFANY\nDerek, te juro que todo esto es real. Carajo, yo les dije, lo espiritual es real. Por culpa de ustedes vamos a morir, ese titere ya no se ve amigable.\n\nWILSON\nNadie va a morir ¿Si? Vamos a escondernos. Resistamos hasta las 6:00 a.m. ¿Bien? Luego nos volveremos a encontrar aqui y quemamos ese cassette. Facil ¿No? Es como five nights at freddy's.\n\nDEREK\nEs mas facil decirlo que hacerlo, dios. \n\nLos tres se miran y asienten entre ellos.\n\nCada uno va rumbo a diferentes partes de la casa.",
+              "location": "Sala Principal - Noche",
+              "actors": [
+                "Estefany",
+                "Wilson",
+                "Derek"
+              ],
+              "status": "Pending",
+              "mood": "Shock, terror",
+              "atmosphere": "Dark, tense, game-like"
+            },
+            {
+              "id": "s1-ep1-sc6",
+              "context": "INT. BAÑO – NOCHE\n\nEstefany está dentro de la ducha. La cortina cerrada. Respira agitada.\n\nGolpes en la puerta del baño.\n\nEstefany se cubre la boca con ambas manos.\n\nLa puerta se abre lentamente.\n\nSilencio.\n\nPasan unos segundos.\n\nEstefany se asoma por una pequeña abertura de la cortina.\n\nNada.\n\nDe pronto, la otra parte de la cortina se mueve. Estefany gira la mirada.\n\nEn el piso: decenas de arañas se arrastran hacia ella. \n\nEstefany grita.\n\nCorre fuera de la ducha.\n\nAfuera, Sugar la espera. Se abalanza sobre ella.\n\nEstefany grita aún más fuerte.\n\nCae al suelo, escupiendo sangre. ",
+              "location": "Baño - Noche",
+              "actors": [
+                "Estefany",
+                "Sugar"
+              ],
+              "status": "Pending",
+              "mood": "High terror, panic",
+              "atmosphere": "Confined, claustrophobic"
+            },
+            {
+              "id": "s1-ep1-sc7",
+              "context": "INT. COCINA – NOCHE\n\nWilson está escondido dentro de un gabinete de cocina.\n\nUn grito de Estefany retumba en la casa.\n\nWilson contiene la respiración.\n\nSu pecho sube y baja cada vez más rápido.\n\nHiperventila.\n\nDe pronto, la puerta del gabinete se abre.\n\nWilson aguanta el aire y la cierra de golpe.\n\nLa puerta vuelve a abrirse.\n\nWilson, aterrado, sale del gabinete.\n\nWILSON\nVaya, Estefany...\nBasta de esta broma. Derek y yo ya entendimos. Esto ya no es divertido...\n\nUn estruendo corta el silencio.\n\nAlgo se cae.\n\nWILSON (CONT'D)\n¿Tefa...?\n\nWilson camina hacia el sonido.\n\nSe detiene al ver montones de ratas corriendo por la cocina. \n\nRetrocede, nervioso.\n\nOtro ruido.\n\nWilson gira la mirada.\n\nSugar está allí. Se lanza sobre él y lo hiere en la pierna.\n\nWilson grita de dolor y cae al suelo.\n\nDe inmediato, se cubre la boca para no hacer más ruido.\n\nSugar aparece frente a él.\n\nWILSON (CONT'D)\n(entre cortado)\nNo grité... no lo hice... yo no...\n\nDe pronto, Wilson se desploma.\n\nUn hilo de sangre escurre de su boca. ",
+              "location": "Cocina - Noche",
+              "actors": [
+                "Wilson",
+                "Sugar"
+              ],
+              "status": "Pending",
+              "mood": "Fear, desperation",
+              "atmosphere": "Dark, unsettling"
+            },
+            {
+              "id": "s1-ep1-sc8",
+              "context": "INT. CUARTO – NOCHE\n\nDerek está escondido bajo la cama.\n\nSe escucha el grito de Estefany.\n\nMomentos después, el grito de Wilson.\n\nLa respiración de Derek se acelera.\n\nDEREK\n(susurrando)\nSon unos idiotas... Esto no es real. Esto es una broma.\nSe asoma lentamente, observa la habitación con la mirada.\n\nNada.\n\nSe esconde de nuevo.\n\nDerek tiembla, nervioso.\n\nUn resplandor comienza a filtrarse por la habitación.\n\nLa luz se extiende, iluminando poco a poco el suelo.\n\nDerek sale lentamente de debajo de la cama.\n\nDirige la mirada hacia la ventana.\n\nEstá amaneciendo.\n\nCon la respiración agitada, abandona la habitación.",
+              "location": "Cuarto - Noche",
+              "actors": [
+                "Derek"
+              ],
+              "status": "Pending",
+              "mood": "Denial, mounting terror, false hope",
+              "atmosphere": "Quiet, tense"
+            },
+            {
+              "id": "s1-ep1-sc9",
+              "context": "INT. SALA PRINCIPAL - NOCHE\n\nDerek llega agitado a la sala. Todo esta cubierto por la luz de la mañana.\n\nHace un recorrido con su mirada por toda la sala.\n\nVe que el televisor esta apagado.\n\nVe que la caja donde venia Sugar sigue en su lugar.\n\nSe acerca a la caja y ahi esta Sugar, su cabeza esta volteada.\n\nDEREK \nBien, que broma tan elaborada, los felicito.\n\nDerek toma a Sugar entre sus manos.\n\nSugar voltea la cabeza revelando su rostro de titere tetrico, levanta sumano de titere con un cuchillo  y de su boca expulsa sangre .\n\nDerek grita y deja caer al titere.\n\nEl televisor se enciende. Derek dirige su mirada a el y ve que muestra qye falta unos segundos para las seis de la mañana. El contador llega a cero y aparece un: \"Game over\".\n\nDerek se deja caer al suelo, esta en shock.\n\nSuelta un grito ahogado.\n\nEl cuerpo de Derek cae al suelo y de su boca resbala sangre.\nSugar aparece en la pantalla del televisr.\n\nSUGAR\nLes dije que no gritaran... \n\nSe muestra el televisor con interferencia reproduciendo los gritos de Estefany, Wilson y Derek, luego se muestra el reproductor, sale el cassette por si solo y cae al suelo. \n\nFUNDIDO A NEGRO\n\nFIN",
+              "location": "Sala Principal - Noche",
+              "actors": [
+                "Derek",
+                "Sugar"
+              ],
+              "status": "Pending",
+              "mood": "Relief turning to final horror, tragic irony",
+              "atmosphere": "Morning light, eerie silence"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

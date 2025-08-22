@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consulta JSON</title>
+</head>
+<body>
+    <div id="trama"></div>
+
+    <script>
+        let jsonData; 
+
+        fetch('pruebas.json')
+        .then(response => response.json())
+        .then(data => {
+            console.log(data);
+            console.log(data.seasons[0].characters[2]);
+            jsonData = data; 
+            mostrarTrama(); 
+        })
+
+        function mostrarTrama(){
+            if (jsonData) {
+                document.getElementById("trama").innerHTML = jsonData.seasons[0].characters[2];
+            }
+        }
+    </script>
+</body>
+</html>
